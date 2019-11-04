@@ -1,2 +1,2 @@
 # nextflow_qc
-This is a test workflow used to do the trimming and quality control of the fastq raw files
+This nexflow pipeline is designed to do the quality control of the RNAseq raw files. It trim the raw files then do the quality control on the trimmed data.
